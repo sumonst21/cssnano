@@ -30,7 +30,7 @@
   },
   "repository": "cssnano/cssnano",
   "dependencies": {
-    "postcss": "^7.0.16",
+    "postcss": "^8.4.31",
     "postcss-selector-parser": "^3.1.1",
     "uniqs": "^2.0.0"
   },

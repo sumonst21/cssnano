@@ -27,7 +27,7 @@
   "repository": "cssnano/cssnano",
   "dependencies": {
     "cssnano-util-get-arguments": "^4.0.0",
-    "postcss": "^7.0.16",
+    "postcss": "^8.4.31",
     "postcss-value-parser": "^3.3.1"
   },
   "bugs": {
