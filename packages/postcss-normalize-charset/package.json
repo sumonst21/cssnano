@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/cssnano/cssnano",
   "dependencies": {
-    "postcss": "^7.0.16"
+    "postcss": "^8.4.31"
   },
   "main": "dist/index.js",
   "scripts": {
