@@ -29,7 +29,7 @@
   "repository": "cssnano/cssnano",
   "dependencies": {
     "css-color-names": "^1.0.1",
-    "postcss": "^7.0.16",
+    "postcss": "^8.4.31",
     "postcss-value-parser": "^3.3.1",
     "stylehacks": "^4.0.3"
   },
